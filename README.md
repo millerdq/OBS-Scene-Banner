@@ -3,7 +3,7 @@
 ===============================
 
 ## Purpose
-OBS-Scene-Banner is a browser dock that prominently displays the Preview and Program scene names. Until such a much-requested feature is incorporated into the base code, consider using this work-around. Moreover, the dock also offers some useful buttons and/or a menubar that supplement the user interface.
+OBS-Scene-Banner is a browser dock that prominently displays the Preview and Program scene names. Until such a much-requested feature is incorporated into the OBS base code, consider using this work-around. What's more, the dock also offers some useful buttons and/or a menubar that supplement the user interface.
 
 ## Requirements
 ------------
