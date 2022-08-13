@@ -5,6 +5,8 @@
 ## Purpose
 OBS-Scene-Banner is a browser dock that prominently displays the Preview and Program scene names. Until such a much-requested feature is incorporated into the OBS base code, consider using this work-around. What's more, the dock also offers some useful buttons and/or a menubar that supplement the user interface.
 
+![ScreenShot](obs-scene-banner.png)
+
 ## Requirements
 ------------
 OBS-Scene-Banner is a javascript-intensive html page that interacts with OBS over the Websocket protocol, relying on a settings file for authentication credentials and other customizations.
