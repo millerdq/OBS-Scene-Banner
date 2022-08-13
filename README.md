@@ -23,7 +23,7 @@ Tested on Windows 10--not sure about other platforms.
 1. Download and install the plugin: "obs-websocket - Remote-control OBS Studio from WebSockets"
  - https://github.com/obsproject/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe
 
-2. Download OBS-Scene-Banner extract to a folder in your preferred OBS scripts directory.
+2. Download OBS-Scene-Banner and extract to a folder in your preferred OBS scripts directory.
 
 3. Edit OBS-Scene-Banner-Settings.js to establish the connection settings, making sure they comport with the Websockets Server settings found in the OBS Tools menu.
 
