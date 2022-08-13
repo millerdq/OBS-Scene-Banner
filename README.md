@@ -24,6 +24,7 @@ Tested on Windows 10--not sure about other platforms.
  - https://github.com/obsproject/obs-websocket/releases/download/4.9.1/obs-websocket-4.9.1-Windows-Installer.exe
 
 2. Download OBS-Scene-Banner and extract to a folder in your preferred OBS scripts directory.
+- https://github.com/millerdq/OBS-Scene-Banner/releases/tag/v1.0
 
 3. Edit OBS-Scene-Banner-Settings.js to establish the connection settings, making sure they comport with the Websockets Server settings found in the OBS Tools menu.
 
