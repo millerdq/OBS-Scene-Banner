@@ -1,6 +1,9 @@
 ===============================
 # OBS Scene Banner
 ===============================
+## Notice
+OBS 29 or later has a setting to show preview/program labels, which is the primary purpose of this OBS-Scene-Banner. Consequently, OBS-Scene-Banner is superfluous, will not be updated to use websockets v5, and is no longer supported.
+
 
 ## Purpose
 OBS-Scene-Banner is a browser dock that prominently displays the Preview and Program scene names. Until such a much-requested feature is incorporated into the OBS base code, consider using this work-around. What's more, the dock also offers some useful buttons and/or a menubar that supplement the user interface.
